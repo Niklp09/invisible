@@ -1,0 +1,7 @@
+-- Change log for "Invisible Wall" --
+
+Version 0.1 - 2021, 7th of May.
+	Added the invisible node and a tool to dig it.
+
+Version 0.2 - 2021, 3rd of June
+	Fixed the translation
